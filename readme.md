@@ -12,15 +12,15 @@
 
 ## Summary of Findings
 
-> * Students who doesn't enjoy math are studying more at home than other students who enjoy math!
-> * Parents who like maths, their children study hours are more than the others.
-> * Study hours tend to decrease when father employment's status goes through:
+* Students who doesn't enjoy math are studying more at home than other students who enjoy math!
+* Parents who like maths, their children study hours are more than the others.
+* Study hours tend to decrease when father employment's status goes through:
 working full time > part time > other > looking for job
-> * students study hours when mother is working are higher than when mother is not working!
-> * Parents who agree to like maths, their children agree to enjoy maths
-> * Parents who disagree to like maths, their children disagree to enjoy maths
-> * Parents who strongly agree to like maths, their children strongly agree to enjoy maths
-> * Parents who strongly disagree to like maths, their children strongly disagree to enjoy maths
+* students study hours when mother is working are higher than when mother is not working!
+* Parents who agree to like maths, their children agree to enjoy maths
+* Parents who disagree to like maths, their children disagree to enjoy maths
+* Parents who strongly agree to like maths, their children strongly agree to enjoy maths
+* Parents who strongly disagree to like maths, their children strongly disagree to enjoy maths
 
 ## Key Insights for Presentation
 
